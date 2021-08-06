@@ -1,0 +1,21 @@
+h1{
+    background: darkred;
+    color: blue;
+    text-align: center;
+
+}
+
+
+a{
+    background: darkslateblue;
+    color: darkorange;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+body{
+    text-align: center;
+}
